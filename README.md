@@ -4,7 +4,9 @@
 ## Install
 
 $ git clone https://github.com/darabperwaiz/transaction-api.git
+
 $ cd transaction-api
+
 $ npm install
 
 ## Running the project
